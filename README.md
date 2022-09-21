@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joel-vaz -> I'm from Portugal
-- 👀 I’m interested in Site Reliability Engineering
+- 👀 I’m interested in Site Reliability Engineering, DevOps, DevSecOps
 - 📫 How to reach me joel.vaz@talkdesk.com
 
 <!---
